@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geershati Saxena | Home</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="https://img.icons8.com/color/96/000000/portfolio.png">
+</head>
+<body class="light-mode">
+    <header>
+        <nav class="navbar">
+            <div class="nav-brand">
+                <a href="index.html" class="logo">GS</a>
+                <span class="name">Geershati Saxena</span>
+            </div>
+            
+            <ul class="nav-links">
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="certificates.html">Certificates</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li>
+                    <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                        <i class="fas fa-moon"></i>
+                    </button>
+                </li>
+            </ul>
+            
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-content fade-in">
+                <div class="hero-text">
+                    <h1 class="hero-title">Hi, I'm <span class="highlight">Geershati Saxena</span></h1>
+                    <h2 class="hero-subtitle">Aspiring Data Analyst</h2>
+                    <p class="hero-description">
+                        Passionate about transforming complex data into meaningful insights.
+I analyze, visualize, and interpret data to support informed decision-making
+using modern analytical tools and techniques.
+                    </p>
+                    <div class="hero-buttons">
+                        <a href="projects.html" class="btn btn-primary">View Projects</a>
+                        <a href="contact.html" class="btn btn-secondary">Get In Touch</a>
+                        <a href="#" class="btn btn-outline" id="downloadCV">
+                            <i class="fas fa-download"></i> Download CV
+                        </a>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <div class="image-container">
+                        <img src="1.png" 
+                             alt="Geershati Saxena - Professional Photo" class="profile-img">
+                        <div class="image-border"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="scroll-indicator">
+                <a href="#about-preview" class="scroll-link">
+                    <i class="fas fa-chevron-down"></i>
+                </a>
+            </div>
+        </section>
+
+        <section class="about-preview" id="about-preview">
+            <div class="container">
+                <h2 class="section-title">About Me</h2>
+                <div class="about-content slide-up">
+                    <div class="about-text">
+                        <p>
+                            I'm a dedicated software developer with expertise in both front-end and back-end technologies. 
+                            With a strong foundation in computer science principles and a passion for clean, efficient code, 
+                            I enjoy tackling challenging problems and creating innovative solutions.
+                        </p>
+                        <p>
+                            My approach combines technical expertise with user-centered design to deliver products 
+                            that are not only functional but also intuitive and enjoyable to use.
+                        </p>
+                        <a href="about.html" class="btn btn-primary">Learn More About Me</a>
+                    </div>
+                    <div class="about-stats">
+                        <div class="stat-item">
+                            <h3>2+</h3>
+                            <p>Years Experience</p>
+                        </div>
+                        <div class="stat-item">
+                            <h3>15+</h3>
+                            <p>Projects Completed</p>
+                        </div>
+                        <div class="stat-item">
+                            <h3>10+</h3>
+                            <p>Technologies Mastered</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-info">
+                <h3>Geershati Saxena</h3>
+                <p>Building the future, one line of code at a time.</p>
+            </div>
+            <div class="footer-social">
+               <a href="https://github.com/geershatisaxena" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                <a href="https://www.instagram.com/geershati_saxena/" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                 <a href="http://leetcode.com/u/geershati_saxena/" target="_blank" aria-label="CodePen"><i class="fab fa-codepen"></i></a>
+            </div>
+            <div class="footer-copyright">
+                <p>&copy; <span id="currentYear"></span> Geershati Saxena. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
