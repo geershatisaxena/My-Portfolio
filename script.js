@@ -190,7 +190,42 @@ function initCertificateModal() {
             title: "Presenting Data",
             description: "Successfully completed Presenting Data, gaining skills in creating effective charts using spreadsheet software and selecting the appropriate chart types to clearly and accurately convey information.",
             image: "Certificates/Cert11.png"
-        }
+        },
+        {
+            title: "Data Science and Analytics",
+            description: "Successfully completed Data Science and Analytics, gaining knowledge of leading data science practices, methodologies, and tools, understanding the benefits and challenges of data-driven business approaches, and developing essential skills for a career in the field.",
+            image: "Certificates/Cert12.png"
+        },
+        {
+            title: "Data Analytics using Power BI",
+            description: "Successfully completed Data Analytics using Power BI, gaining in-depth experience in data cleaning and transformation with Power Query, data modeling using DAX, building interactive dashboards and reports, and extracting actionable business insights through advanced visual analytics.",
+            image: "Certificates/Cert13.jpg"
+        },
+        {
+            title: "Introduction to Digital Business Skills",
+            description: "Successfully completed Introduction to Digital Business Skills, gaining foundational knowledge of digital tools, data-driven decision-making, online collaboration, and essential skills required to succeed in modern digital business environments.",
+            image: "Certificates/Cert14.png"
+        },
+        {
+            title: "Data Science and Artificial Intelligence",
+            description: "Successfully completed Data Science and Artificial Intelligence from Babu Banarasi Das University in collaboration with IBM, gaining in-depth understanding of data collection, cleaning, and exploration, statistical analysis, machine learning and AI algorithms, and their practical business applications, along with hands-on experience using industry-standard tools and frameworks to build, evaluate, and deploy data-driven and intelligent solutions.",
+            image: "Certificates/Cert15.png"
+        },
+        {
+            title: "SQL (Intermediate)",
+            description: "Successfully completed SQL (Intermediate), gaining practical experience in writing optimized queries, using joins, subqueries, and aggregate functions, handling complex data retrieval tasks, and improving database performance through efficient query design.",
+            image: "Certificates/Cert16.png"
+        },
+        {
+            title: "IBM Cognos Analytics V11.1.x Reporting Essentials",
+            description: "Successfully completed IBM Cognos Analytics V11.1.x Reporting Essentials, gaining hands-on experience in creating professional reports and dashboards, working with data modules, applying filters and prompts, and delivering clear, actionable insights through enterprise-level business intelligence reporting.",
+            image: "Certificates/Cert17.png"
+        },
+        {
+            title: "SQL(Basics)",
+            description: "Successfully completed SQL(Basics) from Hackerrank, gaining hands-on experience in writing and executing SQL queries, understanding database structures, and performing basic data manipulation tasks.",
+            image: "Certificates/Cert18.png"
+        },
     ];
     
     // Open modal
