@@ -231,6 +231,16 @@ function initCertificateModal() {
             description: "Successfully completed Microsoft Copilot for Productivity by Microsoft and LinkedIn, gaining practical experience in using Copilot to enhance productivity, streamline workflows, automate tasks, and improve efficiency across Microsoft tools.",
             image: "https://media.licdn.com/dms/image/v2/D4E22AQEkd2Z7kKD4SQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1722043308757?e=1770249600&v=beta&t=WtExADf2rwHdlZFGC-qcNbgH3HmZNw1j-RdwJp8xNGo"
         },
+        {
+            title: "Career Essentials in Data Analysis",
+            description: "Successfully completed Career Essentials in Data Analysis by Microsoft and LinkedIn, gaining strong foundational skills in data analysis and data analytics, along with hands-on experience in data visualization to interpret data effectively and support informed decision-making.",
+            image: "https://media.licdn.com/dms/image/v2/D4E22AQEkd2Z7kKD4SQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1722043308757?e=1770249600&v=beta&t=WtExADf2rwHdlZFGC-qcNbgH3HmZNw1j-RdwJp8xNGo"
+        },
+        {
+            title: "Career Essentials in Generative AI",
+            description: "Successfully completed Career Essentials in Generative AI by Microsoft and LinkedIn, gaining strong foundational skills in generative AI, along with hands-on experience in prompt engineering and ethical AI practices.",
+            image: "https://media.licdn.com/dms/image/v2/D4E22AQFkDZpXcfsbxQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1721737221156?e=1770249600&v=beta&t=dGVF_-S1FzpTey2tQof6h21nWvTBCog3exH6Y1h8bsU"
+        },
     ];
     
     // Open modal
