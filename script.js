@@ -226,6 +226,11 @@ function initCertificateModal() {
             description: "Successfully completed SQL(Basics) from Hackerrank, gaining hands-on experience in writing and executing SQL queries, understanding database structures, and performing basic data manipulation tasks.",
             image: "Certificates/Cert18.png"
         },
+        {
+            title: "Microsoft Copilot for Productivity",
+            description: "Successfully completed Microsoft Copilot for Productivity by Microsoft and LinkedIn, gaining practical experience in using Copilot to enhance productivity, streamline workflows, automate tasks, and improve efficiency across Microsoft tools.",
+            image: "https://media.licdn.com/dms/image/v2/D4E22AQEkd2Z7kKD4SQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1722043308757?e=1770249600&v=beta&t=WtExADf2rwHdlZFGC-qcNbgH3HmZNw1j-RdwJp8xNGo"
+        },
     ];
     
     // Open modal
