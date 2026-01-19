@@ -7,24 +7,34 @@ const downloadCV = document.getElementById('downloadCV');
 
 // ===== Theme Toggle Functionality =====
 function initTheme() {
-    const savedTheme = localStorage.getItem('theme') || 'light-mode';
+    // Check localStorage or default to dark mode
+    const savedTheme = localStorage.getItem('theme') || 'dark-mode';
     document.body.className = savedTheme;
     
     // Update toggle icon
     const icon = themeToggle.querySelector('i');
-    icon.className = savedTheme === 'dark-mode' ? 'fas fa-sun' : 'fas fa-moon';
+    if (icon) {
+        icon.className = savedTheme === 'dark-mode' ? 'fas fa-sun' : 'fas fa-moon';
+    }
 }
 
 function toggleTheme() {
     const isDarkMode = document.body.classList.contains('dark-mode');
     
     // Toggle theme
-    document.body.classList.toggle('dark-mode');
-    document.body.classList.toggle('light-mode');
+    if (isDarkMode) {
+        document.body.classList.remove('dark-mode');
+        document.body.classList.add('light-mode');
+    } else {
+        document.body.classList.remove('light-mode');
+        document.body.classList.add('dark-mode');
+    }
     
     // Update icon
     const icon = themeToggle.querySelector('i');
-    icon.className = isDarkMode ? 'fas fa-moon' : 'fas fa-sun';
+    if (icon) {
+        icon.className = isDarkMode ? 'fas fa-moon' : 'fas fa-sun';
+    }
     
     // Save to localStorage
     const newTheme = isDarkMode ? 'light-mode' : 'dark-mode';
