@@ -295,6 +295,21 @@ function initCertificateModal() {
             title: "Managing Projects with Microsoft 365",
             description: "Successfully earned the “Managing Projects with Microsoft 365” certification, issued by LinkedIn. This credential validates my ability to effectively manage projects using Microsoft 365 tools, including planning, tracking, and collaboration features. Through this certification, I gained practical insights into leveraging Microsoft 365 for project management tasks such as task assignment, timeline creation, and resource allocation. It highlights my commitment to staying ahead with modern productivity solutions and demonstrates my readiness to integrate AI-driven approaches into real-world projects.",
             image: "https://media.licdn.com/dms/image/v2/D4E22AQH12oxCg__HKA/feedshare-shrink_1280/feedshare-shrink_1280/0/1722617291623?e=1770249600&v=beta&t=ExPYXcAN_ME2KOGRZBfXV1SIuZYociYQuzH7N_dkPAU"
+        },
+        {
+            title: "Data Science Tools",
+            description: "Successfully completed the “Data Science Tools” certification, gaining practical hands-on experience with industry-standard tools used across the data science lifecycle, including data exploration, analysis, visualization, and collaborative workflows, strengthening my overall data science foundation.",
+            image: "Certificates/Cert19.png"
+        },
+        {
+            title: "Data Science Methodologies",
+            description: "Successfully completed the “Data Science Methodologies” certification, gaining a structured understanding of the end-to-end data science process, including problem definition, data collection, exploratory analysis, model development, evaluation, and communicating insights for data-driven decision-making.",
+            image: "Certificates/Cert20.png"
+        },
+        {
+            title: "Data Science Foundations - Level 1",
+            description: "Successfully earned the “Data Science Foundations – Level 1” certification issued by IBM, gaining a strong understanding of the possibilities and opportunities that data science, analytics, and big data offer across industries, and how these capabilities drive innovation and data-driven decision-making.",
+            image: "Certificates/Cert21.png"
         }
     ];
     
