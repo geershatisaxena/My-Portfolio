@@ -310,6 +310,21 @@ function initCertificateModal() {
             title: "Data Science Foundations - Level 1",
             description: "Successfully earned the “Data Science Foundations – Level 1” certification issued by IBM, gaining a strong understanding of the possibilities and opportunities that data science, analytics, and big data offer across industries, and how these capabilities drive innovation and data-driven decision-making.",
             image: "Certificates/Cert21.png"
+        },
+        {
+            title: "Data Science for Business - Level 2",
+            description: "Successfully completed the “Data Science for Business – Level 2” certification, gaining deeper insight into applying data science and analytics to solve real-world business problems, evaluate data-driven strategies, and support informed decision-making at an organizational level.",
+            image: "Certificates/Cert22.png"
+        },
+        {
+            title: "Python for Data Science",
+            description: "Successfully completed the “Python for Data Science” certification, gaining strong practical experience in using Python for end-to-end data analysis, including data cleaning, manipulation, and transformation, performing exploratory data analysis, and visualizing insights using libraries such as NumPy, Pandas, and Matplotlib, while developing a solid foundation in writing efficient, readable, and reproducible data-driven code.",
+            image: "Certificates/Cert23.png"
+        },
+        {
+            title: "Introduction to Cognos Analytics",
+            description: "Successfully completed the “Introduction to Cognos Analytics” certification, developing a strong understanding of IBM Cognos Analytics and its role in business intelligence, including connecting to data sources, preparing and modeling data, creating interactive dashboards and reports, performing visual exploration, and using insights to support informed, data-driven business decisions.",
+            image: "Certificates/Cert24.png"
         }
     ];
     

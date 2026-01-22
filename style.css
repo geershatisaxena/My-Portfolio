@@ -12,7 +12,7 @@
 --accent: #750851;
 --accent-dark: #ed89cc;
 --accent-glow: rgba(255, 0, 170, 0.2);
---gradient-heading: linear-gradient(90deg, #0ca08a, #c71cb3, #1786cb);
+--gradient-heading: linear-gradient(90deg, #a90876, #a90876, #a2167b);
 /* Higher contrast for better readability */
     
     /* Backward compatibility for existing selectors */
