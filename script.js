@@ -325,6 +325,26 @@ function initCertificateModal() {
             title: "Introduction to Cognos Analytics",
             description: "Successfully completed the “Introduction to Cognos Analytics” certification, developing a strong understanding of IBM Cognos Analytics and its role in business intelligence, including connecting to data sources, preparing and modeling data, creating interactive dashboards and reports, performing visual exploration, and using insights to support informed, data-driven business decisions.",
             image: "Certificates/Cert24.png"
+        },
+        {
+            title: "SQL and Relational Databases 101",
+            description: "Successfully completed the “SQL and Relational Databases 101” certification, gaining a solid foundation in relational database concepts and SQL, including database design principles, table creation, data querying and manipulation, joins, filtering, aggregations, and writing efficient queries to extract, analyze, and manage structured data for real-world analytical and business use cases.",
+            image: "Certificates/Cert25.png"
+        },
+        {
+            title: "Data Science 101",
+            description: "Successfully completed the “Data Science 101” certification by IBM, gaining a comprehensive introduction to data science concepts, including data analysis, machine learning fundamentals, and the role of data science in solving real-world problems, while understanding how data-driven insights support informed decision-making across industries.",
+            image: "Certificates/Cert26.png"
+        },
+        {
+            title: "Big Data 101",
+            description: "Successfully completed the “Big Data 101” certification by IBM, gaining a comprehensive introduction to big data concepts, including data collection, processing, and analysis using big data technologies. This certification provided insights into the challenges and opportunities in managing large-scale datasets and how big data solutions drive innovation across industries.",
+            image: "Certificates/Cert27.png"
+        },
+        {
+            title: "Artificial Intelligence Analyst",
+            description: "Successfully completed the “Artificial Intelligence Analyst” program from Babu Banarasi Das University, powered by IBM, gaining comprehensive knowledge of artificial intelligence concepts, machine learning fundamentals, and AI-driven solutions, along with hands-on exposure to data analysis, model development, and ethical considerations, enabling the application of AI techniques to solve real-world business and industry problems.",
+            image: "Certificates/Cert28.png"
         }
     ];
     
