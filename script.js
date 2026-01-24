@@ -345,6 +345,21 @@ function initCertificateModal() {
             title: "Artificial Intelligence Analyst",
             description: "Successfully completed the “Artificial Intelligence Analyst” program from Babu Banarasi Das University, powered by IBM, gaining comprehensive knowledge of artificial intelligence concepts, machine learning fundamentals, and AI-driven solutions, along with hands-on exposure to data analysis, model development, and ethical considerations, enabling the application of AI techniques to solve real-world business and industry problems.",
             image: "Certificates/Cert28.png"
+        },
+        {
+            title: "Business Intelligence",
+            description: "Successfully completed the “Business Intelligence” program from Babu Banarasi Das University, powered by IBM, gaining in-depth knowledge of business intelligence concepts and tools, including data integration, data modeling, dashboard and report development, performance analysis, and transforming complex datasets into actionable insights to support strategic, tactical, and operational decision-making across organizations.",
+            image: "Certificates/Cert29.png"
+        },
+        {
+            title: "NoSQL and DBaaS 101",
+            description: "Successfully completed the “NoSQL and DBaaS 101” program from Babu Banarasi Das University, powered by IBM, gaining a strong understanding of NoSQL database concepts and Database-as-a-Service (DBaaS) models, including key-value, document, and distributed databases, cloud-based data storage, scalability, availability, and managing modern data architectures to support high-performance, data-driven applications.",
+            image: "Certificates/Cert30.png"
+        },
+        {
+            title: "Predictive Modeling Fundamentals I",
+            description: "Successfully completed the “Predictive Modeling Fundamentals I” program from Babu Banarasi Das University, powered by IBM, gaining in-depth knowledge of predictive modeling principles and supervised learning techniques, including linear and logistic regression, classification methods, feature engineering, and model evaluation metrics, while learning how to interpret model outputs and apply predictive insights to solve real-world business and analytical problems in a structured, data-driven manner.",
+            image: "Certificates/Cert31.png"
         }
     ];
     
