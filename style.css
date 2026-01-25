@@ -1012,7 +1012,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 1.2rem;
     box-shadow: 0 4px 10px rgba(108, 99, 255, 0.3);
 }
