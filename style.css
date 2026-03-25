@@ -1800,6 +1800,9 @@ footer::before {
         opacity: 0.8;
     }
 }
+body{
+    cursor: url(), auto;
+}
 
 /* Floating glow in background */
 @keyframes floatingGlow {
